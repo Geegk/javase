@@ -4,7 +4,7 @@ import java.lang.reflect.Field;
 
 /**
  * 注解处理器
- * 
+ * 通过反射获取注解的配置信息
  * @author lyc
  *
  */
